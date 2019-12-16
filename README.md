@@ -1,6 +1,6 @@
 # museum-digital embeds in WordPress
 
-This is a very simple plugin putting the different instances of museum-digital on the whitelist of available oEmbed providers.
+This is a very simple WordPress plugin whitelisting the different instances of museum-digital as trustworthy oEmbed providers.
 
 ## Available embeds
 
